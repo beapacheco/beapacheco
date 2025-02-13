@@ -13,24 +13,29 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=beapacheco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
-<br>
 
 <img 
-      align="center" 
+      align="right" 
       alt="GitHub Stats" 
-      height="150" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=beapacheco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
----
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 💻 Linguagens & Tecnologias
 
@@ -60,9 +65,6 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 />
 
 <br>
-<br>
-
----
 
 ### 🔗 Contato
 
