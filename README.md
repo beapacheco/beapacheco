@@ -3,8 +3,6 @@
 
 Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, Portugal. Sou formada em Psicologia e nos últimos 2 anos atuei na área do Turismo. No momento estou em transição de carreira, iniciando meus estudos na área de Programação de forma autônoma através de cursos online!
 
-<br>
-
 - 🔭 Formada em Psicologia
 - 🌱 Aprendendo Front-End & Mobile
 - 🌎 Falo 4 idiomas
@@ -34,7 +32,6 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 ---
 
 ### 💻 Linguagens & Tecnologias
-<br>
 
 <img 
     align="left" 
