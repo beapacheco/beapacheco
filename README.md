@@ -59,8 +59,6 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 
 <br>
 <br>
----
-<br>
 <br>
 
 ### 🔗 Contato
