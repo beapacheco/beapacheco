@@ -1,5 +1,7 @@
 ### 🧑🏻‍💻 Olá, mundo! Eu sou a Beatriz Pacheco!
 
+---
+
 Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, Portugal. Sou formada em Psicologia e nos últimos 2 anos atuei na área do Turismo. No momento estou em transição de carreira, iniciando meus estudos na área de Programação de forma autônoma através de cursos online!
 
 - 🔭 Formada em Psicologia
