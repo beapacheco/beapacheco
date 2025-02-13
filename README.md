@@ -15,7 +15,7 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=beapacheco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -23,7 +23,7 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="180" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=beapacheco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
