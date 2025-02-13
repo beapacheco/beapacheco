@@ -61,10 +61,8 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 
 <br>
 <br>
-<br>
 
 ### 🔗 Contato
-<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/beatrizpacheconunes/)
