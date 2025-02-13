@@ -7,9 +7,8 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 - 🌱 Aprendendo Front-End & Mobile
 - 🌎 Falo 4 idiomas
 - 🧑🏻‍💻 Meus projetos estão disponíveis em:
-- 📫 Entre em contato <a href="https://www.linkedin.com/in/beatrizpacheconunes/">aqui</a>
 
-<br>
+---
 
 <p>
   <img 
@@ -30,8 +29,7 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
   />
 </p>
 
-<br>
-<br>
+---
 
 ### 💻 Linguagens & Tecnologias
 <br>
@@ -60,8 +58,8 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<br>
-<br>
+
+---
 
 ### 🔗 Contato
 <br>
