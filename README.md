@@ -9,6 +9,8 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 - 🧑🏻‍💻 Meus projetos estão disponíveis em:
 - 📫 Entre em contato <a href="https://www.linkedin.com/in/beatrizpacheconunes/">aqui</a>
 
+<br>
+
 <p>
   <img 
     align="left" 
@@ -17,6 +19,8 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=beapacheco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+<br>
+<br>
 
 <img 
       align="left" 
@@ -25,6 +29,9 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=beapacheco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br>
+<br>
 
 ### 💻 Linguagens & Tecnologias
 <br>
@@ -55,6 +62,7 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 />
 <br>
 <br>
+
 ### 🔗 Contato
 <br>
 
