@@ -6,7 +6,7 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 
 - 🔭 Formada em Psicologia
 - 🌱 Aprendendo Front-End & Mobile
-- 🌎 Falo 4 idiomas
+- 🌎 Falo 4 idiomas (pt, en, es, fr)
 - 🧑🏻‍💻 Meus projetos estão disponíveis em:
 
 ---
