@@ -21,6 +21,10 @@ Tenho 27 anos, nasci no Rio de Janeiro, mas atualmente estou morando em Lisboa, 
 
 ---
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=beapacheco&theme=github_dark_dimmed&hide_border=false)<br/>
+
+---
+
 ### 💻 Linguagens & Tecnologias
 
 <img 
